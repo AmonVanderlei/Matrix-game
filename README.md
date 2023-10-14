@@ -4,7 +4,7 @@ Jogo da velha de matrizes com a opção de enfrentar o computador.
 
 ## Sumário
 
-- [Regras] (#regras)
+- [Regras](#regras)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Licença](#licença)
